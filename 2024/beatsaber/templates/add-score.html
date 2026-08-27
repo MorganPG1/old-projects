@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="/static/css.css">
+  <title>Add Score</title>
+</head>
+<body>
+    <h1>Add score</h1>
+    <form action="/add-score" method="post">
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username" required="required"><br><br>
+        <label for="score">Score:</label><br>
+        <input type="number" id="score" name="score" required="required"><br><br>
+        <label for="song">Song:</label>
+
+        <select name="song" id="song">
+            {%for song in songs%}
+                <option value="{{song.id}}">{{song.name}}</option>
+            {%endfor%}
+        </select><br><br>
+        <label for="difficulty">Difficulty:</label>
+        <select name="difficulty" id="difficulty">
+            <option value="Easy">Easy</option>
+            <option value="Normal">Normal</option>
+            <option value="Hard">Hard</option>
+            <option value="Expert">Expert</option>
+            <option value="Expert+">Expert+</option>
+        </select><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>

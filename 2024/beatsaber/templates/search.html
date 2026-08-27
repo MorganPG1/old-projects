@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="/static/css.css">
+  <title>Search</title>
+</head>
+<body>
+    <h1>Search</h1>
+    <form action="/search" method="post">
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username"><br><br>
+        <label for="score">Score:</label><br>
+        <input type="number" id="score" name="score"><br><br>
+        <label for="song">Song:</label>
+
+        <select name="song" id="song">
+            <option value="">Any</option>
+            {%for song in songs%}
+                <option value="{{song.id}}">{{song.name}}</option>
+            {%endfor%}
+        </select><br><br>
+        <label for="difficulty">Difficulty:</label>
+        <select name="difficulty" id="difficulty">
+            <option value="">Any</option>
+            <option value="Easy">Easy</option>
+            <option value="Normal">Normal</option>
+            <option value="Hard">Hard</option>
+            <option value="Expert">Expert</option>
+            <option value="Expert+">Expert+</option>
+        </select><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>

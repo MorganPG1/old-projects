@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="/static/css.css">
+  <title>Home</title>
+</head>
+<body>
+    <h1>Beat Saber Scores</h1>
+
+    <p>Best scores yet: - <a href="/search">Search for scores</a></p>
+    <ul>
+        {%for item in list%}
+            <li>
+                {{item.username}} - {{item.song}} ({{item.difficulty}}) - {{item.score}} 
+            </li>
+        {%endfor%}
+    </ul>
+    <br>
+    <a href="/add-score">Want to add a score? </a>
+</body>

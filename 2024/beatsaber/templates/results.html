@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="/static/css.css">
+  <title>Search</title>
+</head>
+<body>
+    <h1>Search</h1>
+
+    <p>Search results:</p>
+    <ul>
+        {%for item in scores%}
+            <li>
+                {{item.username}} - {{item.song}} ({{item.difficulty}}) - {{item.score}} 
+            </li>
+        {%endfor%}
+    </ul>
+    <br>
+    <a href="/">Home</a>
+</body>
