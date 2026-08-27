@@ -1,0 +1,10 @@
+echo off
+cls
+
+echo --------------
+echo Status: Code unmodified - Mods: None
+echo.
+echo Signer: MPG (Main OS)
+echo --------------
+pause
+Load

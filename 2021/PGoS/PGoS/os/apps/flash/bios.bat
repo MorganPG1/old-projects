@@ -1,0 +1,41 @@
+echo off
+cls
+color 07
+
+:boot
+cls
+echo PGos NON-MODIFIED bios
+echo Version 0.1 - Update 1
+echo ----------------------
+
+echo Choose boot option
+echo.
+
+echo 1) Boot from file listed in bios/bconf.bat
+echo 2) Boot to bios details
+echo.
+
+echo Enter OP. Number
+
+set /p OP=
+
+if %OP% equ 1 goto confload
+if %OP% equ 2 goto two
+if %OP% neq 1 goto boot
+if %OP% neq 2 goto boot
+
+:confload
+bios/bconf.bat
+bios/
+cls
+echo Couldnt find conf file (0x0000O1)
+pause
+goto start
+
+:two
+bios/binfo.bat
+binfo.bat
+cls
+echo Couldnt load BIOS info file (0x0000B2)
+pause
+goto two
