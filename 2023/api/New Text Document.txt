@@ -1,0 +1,12 @@
+
+from random import randrange
+from flask import Flask, request
+app = Flask(__name__)
+@app.route('/', methods=['Get'])
+def result():
+    a = randrange(1,100)
+    print("Responded with " + str(a))
+    return '<h1>'+str(a)+'<h1/>'
+    
+
+app.run(host="192.168.1.184", port=25565)
