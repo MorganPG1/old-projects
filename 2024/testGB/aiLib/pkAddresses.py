@@ -1,0 +1,15 @@
+NumItems = 0xD31D
+MoneyB1 = 0xD347
+MoneyB2 = 0xD348
+NumPokemonInParty = 0xD163
+Pokemon1Level = 0xD18C
+Pokemon2Level = 0xD1B8
+Pokemon3Level = 0xD1E4
+Pokemon4Level = 0xD210
+Pokemon5Level = 0xD23C
+Pokemon6Level = 0xD268
+TurnsInBattle = 0xCCD5
+InBattle = 0xd057
+MapNumber = 0xD35E
+PlayerYPos = 0xD361
+PlayerXPos = 0xD362

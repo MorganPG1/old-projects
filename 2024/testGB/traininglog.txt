@@ -1,0 +1,1539 @@
+Attempt: 1
+Episode 1: 26.75 
+Episode 2: 3.5 
+Episode 3: 10.0 
+Episode 4: 21.0 
+Episode 5: 2.5 
+Episode 6: 15.75 
+Mean is 13.25 
+
+Attempt: 2
+Episode 1: 2.5 
+Episode 2: 19.0 
+Episode 3: 6.25 
+Episode 4: 10.0 
+Episode 5: 4.75 
+Episode 6: 4.75 
+Mean is 7.875 
+
+Attempt: 3
+Episode 1: 7.25 
+Episode 2: 4.75 
+Episode 3: 17.25 
+Episode 4: 8.0 
+Episode 5: 10.0 
+Episode 6: 3.5 
+Mean is 8.458333333333334 
+
+Attempt: 4
+Episode 1: 4.75 
+Episode 2: 6.25 
+Episode 3: 3.5 
+Episode 4: 4.75 
+Episode 5: 12.25 
+Episode 6: 8.0 
+Mean is 6.583333333333333 
+
+Attempt: 5
+Episode 1: 22.0 
+Episode 2: 18.25 
+Episode 3: 1.75 
+Episode 4: 17.25 
+Episode 5: 23.25 
+Episode 6: 28.75 
+Mean is 18.541666666666668 
+
+Attempt: 6
+Episode 1: 8.0 
+Episode 2: 8.0 
+Episode 3: 23.25 
+Episode 4: 4.75 
+Episode 5: 15.75 
+Episode 6: 17.25 
+Mean is 12.833333333333334 
+
+Attempt: 7
+Episode 1: 17.25 
+Episode 2: 2.5 
+Episode 3: 17.25 
+Episode 4: 17.25 
+Episode 5: 8.0 
+Episode 6: 8.0 
+Mean is 11.708333333333334 
+
+Attempt: 8
+Episode 1: 6.25 
+Episode 2: 5.75 
+Episode 3: 4.75 
+Episode 4: 6.25 
+Episode 5: 12.25 
+Episode 6: 19.0 
+Mean is 9.041666666666666 
+
+Attempt: 9
+Episode 1: 11.0 
+Episode 2: 24.25 
+Episode 3: 3.5 
+Episode 4: 16.75 
+Episode 5: 8.0 
+Episode 6: 11.0 
+Mean is 12.416666666666666 
+
+Attempt: 10
+Episode 1: 19.0 
+Episode 2: 2.5 
+Episode 3: 2.5 
+Episode 4: 8.0 
+Episode 5: 2.5 
+Episode 6: 20.0 
+Mean is 9.083333333333334 
+
+Attempt: 11
+Episode 1: 10.0 
+Episode 2: 23.25 
+Episode 3: 4.75 
+Episode 4: 12.25 
+Episode 5: 11.0 
+Episode 6: 9.0 
+Mean is 11.708333333333334 
+
+Attempt: 12
+Episode 1: 6.25 
+Episode 2: 4.75 
+Episode 3: 4.5 
+Episode 4: 2.5 
+Episode 5: 4.75 
+Episode 6: 8.0 
+Mean is 5.125 
+
+Attempt: 13
+Episode 1: 19.0 
+Episode 2: 15.75 
+Episode 3: 4.75 
+Episode 4: 14.75 
+Episode 5: 12.25 
+Episode 6: 4.75 
+Mean is 11.875 
+
+Attempt: 14
+Episode 1: 9.0 
+Episode 2: 2.5 
+Episode 3: 9.0 
+Episode 4: 8.0 
+Episode 5: 6.25 
+Episode 6: 4.75 
+Mean is 6.583333333333333 
+
+Attempt: 15
+Episode 1: 2.5 
+Episode 2: 12.25 
+Episode 3: 14.75 
+Episode 4: 10.0 
+Episode 5: 12.25 
+Episode 6: 5.75 
+Mean is 9.583333333333334 
+
+Attempt: 16
+Episode 1: 19.0 
+Episode 2: 22.0 
+Episode 3: 3.5 
+Episode 4: 17.25 
+Episode 5: 2.5 
+Episode 6: 35.0 
+Mean is 16.541666666666668 
+
+Attempt: 1
+Episode 1: 1.75 
+Episode 2: 2.5 
+Episode 3: 35.0 
+Episode 4: 13.25 
+Episode 5: 18.75 
+Episode 6: 2.5 
+Mean is 12.291666666666666 
+
+Attempt: 1
+Episode 1: 24.55999999999945 
+Episode 2: 24.954999999999416 
+Episode 3: 33.779999999998346 
+Episode 4: 25.589999999999446 
+Episode 5: 31.564999999998616 
+Episode 6: 55.790000000003864 
+Mean is 32.70666666666652 
+
+Attempt: 2
+Episode 1: 50.010000000004474 
+Episode 2: 52.515000000004704 
+Episode 3: 31.939999999998122 
+Episode 4: 24.739999999999238 
+Episode 5: 35.09000000000027 
+Episode 6: 43.76000000000479 
+Mean is 39.67583333333527 
+
+Attempt: 3
+Episode 1: 38.8350000000018 
+Episode 2: 31.18999999999877 
+Episode 3: 23.759999999999454 
+Episode 4: 27.589999999998884 
+Episode 5: 28.95999999999799 
+Episode 6: 54.050000000005696 
+Mean is 34.0641666666671 
+
+Attempt: 4
+Episode 1: 24.964999999999414 
+Episode 2: 34.91000000000018 
+Episode 3: 51.09000000000579 
+Episode 4: 27.76999999999888 
+Episode 5: 24.834999999999575 
+Episode 6: 33.094999999998954 
+Mean is 32.777500000000465 
+
+Attempt: 1
+Episode 1: 3.1 
+Episode 2: 3.1 
+Episode 3: 1.6 
+Episode 4: 17.1 
+Episode 5: 2.5 
+Episode 6: 3.8000000000000003 
+Mean is 5.2 
+
+Attempt: 1
+Episode 1: 18.6 
+Episode 2: 20.1 
+Episode 3: 3.1 
+Episode 4: 4.6000000000000005 
+Episode 5: 1.6 
+Episode 6: 3.8000000000000003 
+Mean is 8.633333333333335 
+
+Attempt: 2
+Episode 1: 4.6000000000000005 
+Episode 2: 1.6 
+Episode 3: 1.6 
+Episode 4: 3.1 
+Episode 5: 2.3 
+Episode 6: 5.500000000000001 
+Mean is 3.1166666666666667 
+
+Attempt: 3
+Episode 1: 1.6 
+Episode 2: 34.0 
+Episode 3: 2.5 
+Episode 4: 4.6000000000000005 
+Episode 5: 1.6 
+Episode 6: 19.3 
+Mean is 10.600000000000001 
+
+Attempt: 4
+Episode 1: 3.5 
+Episode 2: 18.0 
+Episode 3: 3.1 
+Episode 4: 2.5 
+Episode 5: 20.1 
+Episode 6: 5.6000000000000005 
+Mean is 8.8 
+
+Attempt: 5
+Episode 1: 21.0 
+Episode 2: 3.8000000000000003 
+Episode 3: 4.6000000000000005 
+Episode 4: 7.600000000000001 
+Episode 5: 2.0 
+Episode 6: 19.3 
+Mean is 9.716666666666667 
+
+Attempt: 6
+Episode 1: 5.6 
+Episode 2: 34.0 
+Episode 3: 1.6 
+Episode 4: 2.5999999999999996 
+Episode 5: 19.299999999999997 
+Episode 6: 19.3 
+Mean is 13.733333333333334 
+
+Attempt: 7
+Episode 1: 2.0 
+Episode 2: 2.0 
+Episode 3: 19.299999999999997 
+Episode 4: 3.1 
+Episode 5: 17.5 
+Episode 6: 2.0 
+Mean is 7.6499999999999995 
+
+Attempt: 8
+Episode 1: 2.5 
+Episode 2: 2.5999999999999996 
+Episode 3: 19.6 
+Episode 4: 35.0 
+Episode 5: 3.1 
+Episode 6: 19.6 
+Mean is 13.733333333333334 
+
+Attempt: 9
+Episode 1: 2.5 
+Episode 2: 4.6000000000000005 
+Episode 3: 2.9999999999999996 
+Episode 4: 3.1 
+Episode 5: 18.6 
+Episode 6: 2.5 
+Mean is 5.716666666666666 
+
+Attempt: 10
+Episode 1: 21.0 
+Episode 2: 3.8000000000000003 
+Episode 3: 1.6 
+Episode 4: 19.1 
+Episode 5: 7.500000000000001 
+Episode 6: 4.6000000000000005 
+Mean is 9.6 
+
+Attempt: 11
+Episode 1: 3.1 
+Episode 2: 1.6 
+Episode 3: 3.1 
+Episode 4: 18.0 
+Episode 5: 2.5 
+Episode 6: 19.1 
+Mean is 7.900000000000001 
+
+Attempt: 12
+Episode 1: 3.1 
+Episode 2: 20.6 
+Episode 3: 33.1 
+Episode 4: 3.8000000000000003 
+Episode 5: 1.6 
+Episode 6: 18.6 
+Mean is 13.466666666666669 
+
+Attempt: 13
+Episode 1: 8.600000000000001 
+Episode 2: 33.3 
+Episode 3: 3.8000000000000003 
+Episode 4: 3.8000000000000003 
+Episode 5: 5.500000000000001 
+Episode 6: 2.5 
+Mean is 9.583333333333332 
+
+Attempt: 14
+Episode 1: 2.5 
+Episode 2: 1.6 
+Episode 3: 2.5999999999999996 
+Episode 4: 18.0 
+Episode 5: 4.800000000000001 
+Episode 6: 19.3 
+Mean is 8.133333333333333 
+
+Attempt: 15
+Episode 1: 20.1 
+Episode 2: 3.8000000000000003 
+Episode 3: 4.1 
+Episode 4: 21.1 
+Episode 5: 3.8000000000000003 
+Episode 6: 4.8 
+Mean is 9.616666666666665 
+
+Attempt: 16
+Episode 1: 1.6 
+Episode 2: 2.5 
+Episode 3: 3.1 
+Episode 4: 18.6 
+Episode 5: 18.6 
+Episode 6: 20.1 
+Mean is 10.75 
+
+Attempt: 17
+Episode 1: 18.6 
+Episode 2: 4.1 
+Episode 3: 2.5 
+Episode 4: 1.6 
+Episode 5: 2.5 
+Episode 6: 3.1 
+Mean is 5.400000000000001 
+
+Attempt: 18
+Episode 1: 3.8000000000000003 
+Episode 2: 3.1 
+Episode 3: 23.1 
+Episode 4: 2.5 
+Episode 5: 21.0 
+Episode 6: 1.6 
+Mean is 9.183333333333334 
+
+Attempt: 19
+Episode 1: 6.500000000000001 
+Episode 2: 2.6 
+Episode 3: 4.6000000000000005 
+Episode 4: 1.6 
+Episode 5: 18.6 
+Episode 6: 21.1 
+Mean is 9.166666666666668 
+
+Attempt: 20
+Episode 1: 2.5999999999999996 
+Episode 2: 1.6 
+Episode 3: 2.0 
+Episode 4: 2.0 
+Episode 5: 4.6000000000000005 
+Episode 6: 3.4999999999999996 
+Mean is 2.716666666666667 
+
+Attempt: 21
+Episode 1: 2.5999999999999996 
+Episode 2: 2.0 
+Episode 3: 33.099999999999994 
+Episode 4: 19.3 
+Episode 5: 2.5 
+Episode 6: 2.5 
+Mean is 10.333333333333334 
+
+Attempt: 22
+Episode 1: 3.5 
+Episode 2: 2.5 
+Episode 3: 2.5 
+Episode 4: 2.0 
+Episode 5: 3.1 
+Episode 6: 18.0 
+Mean is 5.266666666666667 
+
+Attempt: 23
+Episode 1: 3.8000000000000003 
+Episode 2: 15.799999999999999 
+Episode 3: 3.1 
+Episode 4: 2.0 
+Episode 5: 6.5 
+Episode 6: 2.5999999999999996 
+Mean is 5.633333333333333 
+
+Attempt: 24
+Episode 1: 2.5 
+Episode 2: 15.600000000000001 
+Episode 3: 2.5 
+Episode 4: 3.8000000000000003 
+Episode 5: 5.500000000000001 
+Episode 6: 4.8 
+Mean is 5.783333333333334 
+
+Attempt: 25
+Episode 1: 3.1 
+Episode 2: 2.0 
+Episode 3: 3.1 
+Episode 4: 2.5 
+Episode 5: 1.6 
+Episode 6: 3.8000000000000003 
+Mean is 2.683333333333333 
+
+Attempt: 26
+Episode 1: 2.5 
+Episode 2: 14.1 
+Episode 3: 8.6 
+Episode 4: 15.600000000000001 
+Episode 5: 21.0 
+Episode 6: 4.6000000000000005 
+Mean is 11.066666666666668 
+
+Attempt: 27
+Episode 1: 1.6 
+Episode 2: 4.8 
+Episode 3: 18.6 
+Episode 4: 2.5 
+Episode 5: 5.6 
+Episode 6: 3.8000000000000003 
+Mean is 6.1499999999999995 
+
+Attempt: 28
+Episode 1: 4.6000000000000005 
+Episode 2: 3.8000000000000003 
+Episode 3: 20.3 
+Episode 4: 1.6 
+Episode 5: 5.500000000000001 
+Episode 6: 3.8000000000000003 
+Mean is 6.6000000000000005 
+
+Attempt: 29
+Episode 1: 1.6 
+Episode 2: 4.8 
+Episode 3: 4.6000000000000005 
+Episode 4: 2.5 
+Episode 5: 1.6 
+Episode 6: 1.6 
+Mean is 2.783333333333333 
+
+Attempt: 30
+Episode 1: 3.1 
+Episode 2: 20.6 
+Episode 3: 2.0 
+Episode 4: 19.3 
+Episode 5: 4.6000000000000005 
+Episode 6: 2.0 
+Mean is 8.6 
+
+Attempt: 31
+Episode 1: 31.6 
+Episode 2: 3.8000000000000003 
+Episode 3: 22.0 
+Episode 4: 33.599999999999994 
+Episode 5: 6.5 
+Episode 6: 4.6000000000000005 
+Mean is 17.016666666666666 
+
+Attempt: 32
+Episode 1: 5.6 
+Episode 2: 6.500000000000001 
+Episode 3: 2.5 
+Episode 4: 2.5 
+Episode 5: 1.6 
+Episode 6: 20.1 
+Mean is 6.466666666666668 
+
+Attempt: 33
+Episode 1: 2.5 
+Episode 2: 5.500000000000001 
+Episode 3: 1.6 
+Episode 4: 2.0 
+Episode 5: 2.0 
+Episode 6: 3.8000000000000003 
+Mean is 2.9 
+
+Attempt: 34
+Episode 1: 3.4999999999999996 
+Episode 2: 2.5 
+Episode 3: 2.5 
+Episode 4: 3.0 
+Episode 5: 19.1 
+Episode 6: 15.1 
+Mean is 7.616666666666667 
+
+Attempt: 35
+Episode 1: 3.1 
+Episode 2: 2.5 
+Episode 3: 1.3 
+Episode 4: 3.8000000000000003 
+Episode 5: 33.599999999999994 
+Episode 6: 21.1 
+Mean is 10.9 
+
+Attempt: 36
+Episode 1: 2.5 
+Episode 2: 3.8000000000000003 
+Episode 3: 1.6 
+Episode 4: 2.6 
+Episode 5: 1.6 
+Episode 6: 31.6 
+Mean is 7.283333333333334 
+
+Attempt: 37
+Episode 1: 3.1 
+Episode 2: 3.1 
+Episode 3: 3.1 
+Episode 4: 1.6 
+Episode 5: 2.6 
+Episode 6: 4.800000000000001 
+Mean is 3.0500000000000003 
+
+Attempt: 38
+Episode 1: 1.6 
+Episode 2: 3.0 
+Episode 3: 2.0 
+Episode 4: 3.8000000000000003 
+Episode 5: 2.0 
+Episode 6: 5.6 
+Mean is 3.0 
+
+Attempt: 39
+Episode 1: 1.6 
+Episode 2: 33.1 
+Episode 3: 3.1 
+Episode 4: 1.6 
+Episode 5: 3.8000000000000003 
+Episode 6: 1.6 
+Mean is 7.466666666666668 
+
+Attempt: 40
+Episode 1: 2.3 
+Episode 2: 3.8000000000000003 
+Episode 3: 18.6 
+Episode 4: 5.500000000000001 
+Episode 5: 6.500000000000001 
+Episode 6: 2.0 
+Mean is 6.45 
+
+Attempt: 41
+Episode 1: 17.5 
+Episode 2: 2.0 
+Episode 3: 2.0 
+Episode 4: 2.0 
+Episode 5: 6.500000000000001 
+Episode 6: 3.8000000000000003 
+Mean is 5.633333333333333 
+
+Attempt: 42
+Episode 1: 3.0 
+Episode 2: 6.500000000000001 
+Episode 3: 2.0 
+Episode 4: 2.0 
+Episode 5: 19.299999999999997 
+Episode 6: 2.5999999999999996 
+Mean is 5.8999999999999995 
+
+Attempt: 43
+Episode 1: 20.1 
+Episode 2: 19.3 
+Episode 3: 3.8000000000000003 
+Episode 4: 21.0 
+Episode 5: 2.5 
+Episode 6: 3.1 
+Mean is 11.633333333333333 
+
+Attempt: 44
+Episode 1: 3.8000000000000003 
+Episode 2: 4.6000000000000005 
+Episode 3: 3.8000000000000003 
+Episode 4: 2.5 
+Episode 5: 2.6 
+Episode 6: 96.6 
+Mean is 18.98333333333333 
+
+Attempt: 45
+Episode 1: 1.6 
+Episode 2: 14.8 
+Episode 3: 3.1 
+Episode 4: 2.5 
+Episode 5: 1.6 
+Episode 6: 5.500000000000001 
+Mean is 4.8500000000000005 
+
+Attempt: 46
+Episode 1: 2.6 
+Episode 2: 2.0 
+Episode 3: 19.299999999999997 
+Episode 4: 2.5 
+Episode 5: 6.500000000000001 
+Episode 6: 3.1 
+Mean is 6.0 
+
+Attempt: 47
+Episode 1: 2.6 
+Episode 2: 33.1 
+Episode 3: 3.1 
+Episode 4: 14.799999999999999 
+Episode 5: 19.3 
+Episode 6: 3.8000000000000003 
+Mean is 12.783333333333333 
+
+Attempt: 48
+Episode 1: 19.3 
+Episode 2: 2.0 
+Episode 3: 3.8000000000000003 
+Episode 4: 19.8 
+Episode 5: 19.3 
+Episode 6: 2.5 
+Mean is 11.116666666666667 
+
+Attempt: 49
+Episode 1: 7.600000000000001 
+Episode 2: 32.3 
+Episode 3: 2.0 
+Episode 4: 2.9999999999999996 
+Episode 5: 3.8000000000000003 
+Episode 6: 33.3 
+Mean is 13.666666666666666 
+
+Attempt: 50
+Episode 1: 3.1 
+Episode 2: 3.8000000000000003 
+Episode 3: 1.6 
+Episode 4: 4.6000000000000005 
+Episode 5: 3.0 
+Episode 6: 33.6 
+Mean is 8.283333333333333 
+
+Attempt: 51
+Episode 1: 3.8000000000000003 
+Episode 2: 3.1 
+Episode 3: 1.6 
+Episode 4: 3.1 
+Episode 5: 3.8000000000000003 
+Episode 6: 3.1 
+Mean is 3.0833333333333335 
+
+Attempt: 52
+Episode 1: 4.6000000000000005 
+Episode 2: 4.8 
+Episode 3: 2.0 
+Episode 4: 21.5 
+Episode 5: 3.8000000000000003 
+Episode 6: 15.8 
+Mean is 8.75 
+
+Attempt: 53
+Episode 1: 1.6 
+Episode 2: 2.5999999999999996 
+Episode 3: 4.8 
+Episode 4: 3.8000000000000003 
+Episode 5: 19.0 
+Episode 6: 5.500000000000001 
+Mean is 6.216666666666668 
+
+Attempt: 54
+Episode 1: 2.0 
+Episode 2: 2.5 
+Episode 3: 7.500000000000001 
+Episode 4: 18.6 
+Episode 5: 2.5 
+Episode 6: 19.5 
+Mean is 8.766666666666667 
+
+Attempt: 55
+Episode 1: 1.6 
+Episode 2: 19.3 
+Episode 3: 20.6 
+Episode 4: 2.6 
+Episode 5: 19.299999999999997 
+Episode 6: 18.6 
+Mean is 13.666666666666666 
+
+Attempt: 56
+Episode 1: 4.6000000000000005 
+Episode 2: 3.1 
+Episode 3: 3.1 
+Episode 4: 2.0 
+Episode 5: 1.6 
+Episode 6: 3.8000000000000003 
+Mean is 3.033333333333333 
+
+Attempt: 57
+Episode 1: 3.1 
+Episode 2: 3.5 
+Episode 3: 1.6 
+Episode 4: 19.3 
+Episode 5: 2.6 
+Episode 6: 19.1 
+Mean is 8.200000000000001 
+
+Attempt: 58
+Episode 1: 1.6 
+Episode 2: 2.0 
+Episode 3: 18.6 
+Episode 4: 21.0 
+Episode 5: 3.8000000000000003 
+Episode 6: 19.3 
+Mean is 11.049999999999999 
+
+Attempt: 59
+Episode 1: 3.8000000000000003 
+Episode 2: 21.0 
+Episode 3: 20.1 
+Episode 4: 19.1 
+Episode 5: 18.6 
+Episode 6: 2.5 
+Mean is 14.183333333333332 
+
+Attempt: 60
+Episode 1: 4.6000000000000005 
+Episode 2: 3.8000000000000003 
+Episode 3: 6.500000000000001 
+Episode 4: 2.5 
+Episode 5: 3.8000000000000003 
+Episode 6: 3.8000000000000003 
+Mean is 4.166666666666667 
+
+Attempt: 61
+Episode 1: 3.0 
+Episode 2: 4.6000000000000005 
+Episode 3: 2.5 
+Episode 4: 19.3 
+Episode 5: 2.5 
+Episode 6: 4.6000000000000005 
+Mean is 6.083333333333333 
+
+Attempt: 62
+Episode 1: 2.5 
+Episode 2: 18.0 
+Episode 3: 2.0 
+Episode 4: 2.0 
+Episode 5: 2.0 
+Episode 6: 20.1 
+Mean is 7.766666666666667 
+
+Attempt: 63
+Episode 1: 3.1 
+Episode 2: 3.1 
+Episode 3: 3.1 
+Episode 4: 3.5 
+Episode 5: 2.5 
+Episode 6: 3.8000000000000003 
+Mean is 3.1833333333333336 
+
+Attempt: 64
+Episode 1: 3.8000000000000003 
+Episode 2: 32.6 
+Episode 3: 31.6 
+Episode 4: 144.0 
+Episode 5: 4.800000000000001 
+Episode 6: 4.6000000000000005 
+Mean is 36.9 
+
+Attempt: 65
+Episode 1: 21.0 
+Episode 2: 5.500000000000001 
+Episode 3: 31.0 
+Episode 4: 4.6000000000000005 
+Episode 5: 19.6 
+Episode 6: 3.8000000000000003 
+Mean is 14.25 
+
+Attempt: 66
+Episode 1: 5.500000000000001 
+Episode 2: 19.299999999999997 
+Episode 3: 2.9999999999999996 
+Episode 4: 4.6000000000000005 
+Episode 5: 1.6 
+Episode 6: 18.6 
+Mean is 8.766666666666667 
+
+Attempt: 67
+Episode 1: 19.299999999999997 
+Episode 2: 1.6 
+Episode 3: 19.1 
+Episode 4: 2.0 
+Episode 5: 2.5 
+Episode 6: 18.6 
+Mean is 10.516666666666667 
+
+Attempt: 68
+Episode 1: 18.6 
+Episode 2: 31.6 
+Episode 3: 3.1 
+Episode 4: 36.1 
+Episode 5: 3.8000000000000003 
+Episode 6: 2.0 
+Mean is 15.866666666666667 
+
+Attempt: 69
+Episode 1: 2.6 
+Episode 2: 3.8000000000000003 
+Episode 3: 3.8000000000000003 
+Episode 4: 18.6 
+Episode 5: 3.1 
+Episode 6: 2.6 
+Mean is 5.750000000000001 
+
+Attempt: 70
+Episode 1: 19.5 
+Episode 2: 3.1 
+Episode 3: 1.6 
+Episode 4: 3.0 
+Episode 5: 1.6 
+Episode 6: 19.299999999999997 
+Mean is 8.016666666666667 
+
+Attempt: 71
+Episode 1: 20.1 
+Episode 2: 1.6 
+Episode 3: 1.6 
+Episode 4: 19.3 
+Episode 5: 1.6 
+Episode 6: 22.0 
+Mean is 11.033333333333337 
+
+Attempt: 72
+Episode 1: 3.8000000000000003 
+Episode 2: 19.3 
+Episode 3: 18.6 
+Episode 4: 3.1 
+Episode 5: 4.6000000000000005 
+Episode 6: 23.1 
+Mean is 12.083333333333334 
+
+Attempt: 73
+Episode 1: 20.1 
+Episode 2: 1.6 
+Episode 3: 7.5 
+Episode 4: 3.0 
+Episode 5: 2.5 
+Episode 6: 2.0 
+Mean is 6.116666666666667 
+
+Attempt: 74
+Episode 1: 3.8000000000000003 
+Episode 2: 3.5 
+Episode 3: 3.1 
+Episode 4: 2.0 
+Episode 5: 3.1 
+Episode 6: 3.1 
+Mean is 3.1 
+
+Attempt: 75
+Episode 1: 19.1 
+Episode 2: 5.6 
+Episode 3: 20.1 
+Episode 4: 2.5 
+Episode 5: 3.1 
+Episode 6: 5.6 
+Mean is 9.333333333333334 
+
+Attempt: 76
+Episode 1: 2.6 
+Episode 2: 3.1 
+Episode 3: 19.3 
+Episode 4: 4.6000000000000005 
+Episode 5: 3.1 
+Episode 6: 3.1 
+Mean is 5.966666666666668 
+
+Attempt: 77
+Episode 1: 2.0 
+Episode 2: 3.8000000000000003 
+Episode 3: 3.8000000000000003 
+Episode 4: 20.6 
+Episode 5: 22.0 
+Episode 6: 3.1 
+Mean is 9.216666666666667 
+
+Attempt: 78
+Episode 1: 3.8000000000000003 
+Episode 2: 3.8000000000000003 
+Episode 3: 19.0 
+Episode 4: 2.5999999999999996 
+Episode 5: 3.1 
+Episode 6: 4.6000000000000005 
+Mean is 6.150000000000001 
+
+Attempt: 79
+Episode 1: 31.6 
+Episode 2: 2.5999999999999996 
+Episode 3: 2.0 
+Episode 4: 1.6 
+Episode 5: 1.6 
+Episode 6: 3.1 
+Mean is 7.083333333333335 
+
+Attempt: 80
+Episode 1: 2.5999999999999996 
+Episode 2: 2.0 
+Episode 3: 1.6 
+Episode 4: 3.1 
+Episode 5: 3.8000000000000003 
+Episode 6: 19.3 
+Mean is 5.3999999999999995 
+
+Attempt: 81
+Episode 1: 3.1 
+Episode 2: 1.6 
+Episode 3: 1.6 
+Episode 4: 18.6 
+Episode 5: 22.0 
+Episode 6: 32.3 
+Mean is 13.200000000000001 
+
+Attempt: 82
+Episode 1: 1.6 
+Episode 2: 5.500000000000001 
+Episode 3: 1.6 
+Episode 4: 4.6000000000000005 
+Episode 5: 1.6 
+Episode 6: 2.5 
+Mean is 2.9 
+
+Attempt: 83
+Episode 1: 2.0 
+Episode 2: 3.1 
+Episode 3: 4.6000000000000005 
+Episode 4: 4.6000000000000005 
+Episode 5: 6.500000000000001 
+Episode 6: 22.0 
+Mean is 7.133333333333333 
+
+Attempt: 84
+Episode 1: 3.8000000000000003 
+Episode 2: 18.6 
+Episode 3: 2.5 
+Episode 4: 18.0 
+Episode 5: 2.5 
+Episode 6: 1.6 
+Mean is 7.833333333333335 
+
+Attempt: 85
+Episode 1: 5.500000000000001 
+Episode 2: 2.5 
+Episode 3: 2.5 
+Episode 4: 1.6 
+Episode 5: 1.6 
+Episode 6: 1.6 
+Mean is 2.55 
+
+Attempt: 86
+Episode 1: 6.500000000000001 
+Episode 2: 2.5999999999999996 
+Episode 3: 6.500000000000001 
+Episode 4: 4.8 
+Episode 5: 2.5 
+Episode 6: 2.5 
+Mean is 4.233333333333333 
+
+Attempt: 87
+Episode 1: 1.6 
+Episode 2: 18.6 
+Episode 3: 2.0 
+Episode 4: 5.500000000000001 
+Episode 5: 2.0 
+Episode 6: 2.5 
+Mean is 5.366666666666667 
+
+Attempt: 88
+Episode 1: 2.5999999999999996 
+Episode 2: 5.500000000000001 
+Episode 3: 21.0 
+Episode 4: 4.6000000000000005 
+Episode 5: 4.6000000000000005 
+Episode 6: 32.3 
+Mean is 11.766666666666666 
+
+Attempt: 89
+Episode 1: 20.3 
+Episode 2: 2.5 
+Episode 3: 2.5 
+Episode 4: 1.6 
+Episode 5: 2.5 
+Episode 6: 2.0 
+Mean is 5.233333333333333 
+
+Attempt: 90
+Episode 1: 2.0 
+Episode 2: 18.6 
+Episode 3: 5.6 
+Episode 4: 4.6000000000000005 
+Episode 5: 1.6 
+Episode 6: 1.6 
+Mean is 5.666666666666668 
+
+Attempt: 91
+Episode 1: 1.6 
+Episode 2: 2.0 
+Episode 3: 3.8000000000000003 
+Episode 4: 3.8000000000000003 
+Episode 5: 1.6 
+Episode 6: 2.0 
+Mean is 2.466666666666667 
+
+Attempt: 92
+Episode 1: 5.500000000000001 
+Episode 2: 3.0 
+Episode 3: 1.6 
+Episode 4: 14.1 
+Episode 5: 5.500000000000001 
+Episode 6: 23.0 
+Mean is 8.783333333333333 
+
+Attempt: 93
+Episode 1: 19.299999999999997 
+Episode 2: 21.6 
+Episode 3: 4.6000000000000005 
+Episode 4: 3.8000000000000003 
+Episode 5: 1.6 
+Episode 6: 1.6 
+Mean is 8.75 
+
+Attempt: 94
+Episode 1: 2.0 
+Episode 2: 22.0 
+Episode 3: 18.6 
+Episode 4: 15.600000000000001 
+Episode 5: 1.6 
+Episode 6: 2.6 
+Mean is 10.4 
+
+Attempt: 95
+Episode 1: 19.299999999999997 
+Episode 2: 2.5 
+Episode 3: 2.5999999999999996 
+Episode 4: 15.600000000000001 
+Episode 5: 2.0 
+Episode 6: 2.0 
+Mean is 7.333333333333333 
+
+Attempt: 96
+Episode 1: 4.6000000000000005 
+Episode 2: 2.0 
+Episode 3: 32.300000000000004 
+Episode 4: 6.5 
+Episode 5: 3.0 
+Episode 6: 3.8000000000000003 
+Mean is 8.700000000000001 
+
+Attempt: 97
+Episode 1: 19.8 
+Episode 2: 3.1 
+Episode 3: 19.8 
+Episode 4: 2.5 
+Episode 5: 3.1 
+Episode 6: 1.6 
+Mean is 8.316666666666668 
+
+Attempt: 98
+Episode 1: 2.5999999999999996 
+Episode 2: 2.0 
+Episode 3: 4.1 
+Episode 4: 4.6000000000000005 
+Episode 5: 1.6 
+Episode 6: 2.0 
+Mean is 2.8166666666666664 
+
+Attempt: 99
+Episode 1: 2.9999999999999996 
+Episode 2: 6.5 
+Episode 3: 2.6 
+Episode 4: 4.6000000000000005 
+Episode 5: 2.0 
+Episode 6: 18.6 
+Mean is 6.216666666666666 
+
+Attempt: 100
+Episode 1: 18.6 
+Episode 2: 1.6 
+Episode 3: 4.6000000000000005 
+Episode 4: 3.8000000000000003 
+Episode 5: 4.6000000000000005 
+Episode 6: 2.0 
+Mean is 5.866666666666667 
+
+Attempt: 101
+Episode 1: 33.3 
+Episode 2: 4.6000000000000005 
+Episode 3: 3.1 
+Episode 4: 32.3 
+Episode 5: 4.6000000000000005 
+Episode 6: 3.8000000000000003 
+Mean is 13.616666666666665 
+
+Attempt: 102
+Episode 1: 2.5 
+Episode 2: 5.500000000000001 
+Episode 3: 1.6 
+Episode 4: 3.8000000000000003 
+Episode 5: 2.5 
+Episode 6: 19.299999999999997 
+Mean is 5.866666666666666 
+
+Attempt: 103
+Episode 1: 5.6 
+Episode 2: 1.6 
+Episode 3: 4.6000000000000005 
+Episode 4: 1.6 
+Episode 5: 19.1 
+Episode 6: 1.6 
+Mean is 5.683333333333334 
+
+Attempt: 104
+Episode 1: 3.8000000000000003 
+Episode 2: 20.1 
+Episode 3: 3.8000000000000003 
+Episode 4: 1.6 
+Episode 5: 3.8000000000000003 
+Episode 6: 2.6 
+Mean is 5.95 
+
+Attempt: 105
+Episode 1: 3.8000000000000003 
+Episode 2: 2.6 
+Episode 3: 3.1 
+Episode 4: 1.6 
+Episode 5: 2.5 
+Episode 6: 3.8000000000000003 
+Mean is 2.9 
+
+Attempt: 106
+Episode 1: 2.5 
+Episode 2: 5.6 
+Episode 3: 6.500000000000001 
+Episode 4: 4.1 
+Episode 5: 4.6000000000000005 
+Episode 6: 4.6000000000000005 
+Mean is 4.650000000000001 
+
+Attempt: 107
+Episode 1: 19.6 
+Episode 2: 1.6 
+Episode 3: 2.0 
+Episode 4: 19.8 
+Episode 5: 20.6 
+Episode 6: 5.6000000000000005 
+Mean is 11.533333333333333 
+
+Attempt: 108
+Episode 1: 33.1 
+Episode 2: 2.5999999999999996 
+Episode 3: 3.8000000000000003 
+Episode 4: 2.0 
+Episode 5: 3.8000000000000003 
+Episode 6: 4.6000000000000005 
+Mean is 8.316666666666666 
+
+Attempt: 109
+Episode 1: 2.5999999999999996 
+Episode 2: 19.3 
+Episode 3: 19.799999999999997 
+Episode 4: 33.99999999999999 
+Episode 5: 1.6 
+Episode 6: 2.0 
+Mean is 13.216666666666663 
+
+Attempt: 110
+Episode 1: 18.6 
+Episode 2: 2.0 
+Episode 3: 6.5 
+Episode 4: 2.5999999999999996 
+Episode 5: 2.0 
+Episode 6: 1.6 
+Mean is 5.550000000000001 
+
+Attempt: 111
+Episode 1: 4.8 
+Episode 2: 6.5 
+Episode 3: 18.6 
+Episode 4: 3.1 
+Episode 5: 33.1 
+Episode 6: 4.6000000000000005 
+Mean is 11.783333333333331 
+
+Attempt: 112
+Episode 1: 2.0 
+Episode 2: 1.6 
+Episode 3: 1.6 
+Episode 4: 1.6 
+Episode 5: 3.1 
+Episode 6: 1.3 
+Mean is 1.866666666666667 
+
+Attempt: 113
+Episode 1: 2.5 
+Episode 2: 4.6000000000000005 
+Episode 3: 3.8000000000000003 
+Episode 4: 3.8000000000000003 
+Episode 5: 2.0 
+Episode 6: 1.6 
+Mean is 3.0500000000000007 
+
+Attempt: 114
+Episode 1: 2.5 
+Episode 2: 4.1 
+Episode 3: 18.6 
+Episode 4: 1.6 
+Episode 5: 32.3 
+Episode 6: 14.1 
+Mean is 12.200000000000001 
+
+Attempt: 115
+Episode 1: 2.0 
+Episode 2: 19.1 
+Episode 3: 18.6 
+Episode 4: 1.6 
+Episode 5: 2.5999999999999996 
+Episode 6: 2.0 
+Mean is 7.650000000000001 
+
+Attempt: 116
+Episode 1: 15.8 
+Episode 2: 34.1 
+Episode 3: 19.1 
+Episode 4: 6.500000000000001 
+Episode 5: 3.8000000000000003 
+Episode 6: 4.6000000000000005 
+Mean is 13.983333333333333 
+
+Attempt: 117
+Episode 1: 33.1 
+Episode 2: 94.1 
+Episode 3: 1.6 
+Episode 4: 4.6000000000000005 
+Episode 5: 2.0 
+Episode 6: 14.1 
+Mean is 24.91666666666666 
+
+Attempt: 118
+Episode 1: 18.6 
+Episode 2: 2.0 
+Episode 3: 6.5 
+Episode 4: 1.6 
+Episode 5: 3.1 
+Episode 6: 3.8000000000000003 
+Mean is 5.933333333333334 
+
+Attempt: 119
+Episode 1: 18.0 
+Episode 2: 3.5 
+Episode 3: 3.5 
+Episode 4: 3.8000000000000003 
+Episode 5: 3.4999999999999996 
+Episode 6: 2.5 
+Mean is 5.8 
+
+Attempt: 120
+Episode 1: 1.6 
+Episode 2: 3.1 
+Episode 3: 2.6 
+Episode 4: 1.6 
+Episode 5: 3.8000000000000003 
+Episode 6: 2.0 
+Mean is 2.45 
+
+Attempt: 121
+Episode 1: 18.6 
+Episode 2: 3.1 
+Episode 3: 5.6 
+Episode 4: 1.6 
+Episode 5: 2.0 
+Episode 6: 1.6 
+Mean is 5.416666666666668 
+
+Attempt: 122
+Episode 1: 1.6 
+Episode 2: 20.1 
+Episode 3: 6.5 
+Episode 4: 20.1 
+Episode 5: 2.5 
+Episode 6: 3.8000000000000003 
+Mean is 9.1 
+
+Attempt: 123
+Episode 1: 21.0 
+Episode 2: 4.6000000000000005 
+Episode 3: 1.6 
+Episode 4: 4.6000000000000005 
+Episode 5: 3.8000000000000003 
+Episode 6: 19.3 
+Mean is 9.15 
+
+Attempt: 124
+Episode 1: 19.3 
+Episode 2: 2.9999999999999996 
+Episode 3: 15.600000000000001 
+Episode 4: 3.1 
+Episode 5: 33.3 
+Episode 6: 2.6 
+Mean is 12.816666666666668 
+
+Attempt: 125
+Episode 1: 3.1 
+Episode 2: 2.5 
+Episode 3: 2.5 
+Episode 4: 2.5999999999999996 
+Episode 5: 3.1 
+Episode 6: 1.6 
+Mean is 2.5666666666666664 
+
+Attempt: 126
+Episode 1: 15.600000000000001 
+Episode 2: 1.6 
+Episode 3: 2.0 
+Episode 4: 20.6 
+Episode 5: 3.8000000000000003 
+Episode 6: 3.1 
+Mean is 7.783333333333334 
+
+Attempt: 127
+Episode 1: 19.3 
+Episode 2: 3.8000000000000003 
+Episode 3: 4.6000000000000005 
+Episode 4: 34.0 
+Episode 5: 1.6 
+Episode 6: 2.5 
+Mean is 10.966666666666669 
+
+Attempt: 128
+Episode 1: 3.1 
+Episode 2: 20.6 
+Episode 3: 3.8000000000000003 
+Episode 4: 34.0 
+Episode 5: 33.3 
+Episode 6: 2.5 
+Mean is 16.216666666666665 
+
+Attempt: 129
+Episode 1: 3.1 
+Episode 2: 2.6 
+Episode 3: 4.6000000000000005 
+Episode 4: 4.8 
+Episode 5: 1.6 
+Episode 6: 1.6 
+Mean is 3.0500000000000007 
+
+Attempt: 130
+Episode 1: 3.8000000000000003 
+Episode 2: 6.500000000000001 
+Episode 3: 33.99999999999999 
+Episode 4: 1.6 
+Episode 5: 1.6 
+Episode 6: 23.1 
+Mean is 11.766666666666666 
+
+Attempt: 131
+Episode 1: 1.6 
+Episode 2: 18.6 
+Episode 3: 32.3 
+Episode 4: 1.6 
+Episode 5: 1.6 
+Episode 6: 2.0 
+Mean is 9.616666666666667 
+
+Attempt: 132
+Episode 1: 16.5 
+Episode 2: 4.6000000000000005 
+Episode 3: 1.6 
+Episode 4: 21.0 
+Episode 5: 16.5 
+Episode 6: 47.300000000000004 
+Mean is 17.916666666666668 
+
+Attempt: 133
+Episode 1: 3.8000000000000003 
+Episode 2: 3.8000000000000003 
+Episode 3: 3.8000000000000003 
+Episode 4: 2.0 
+Episode 5: 8.600000000000001 
+Episode 6: 21.5 
+Mean is 7.25 
+
+Attempt: 134
+Episode 1: 3.8000000000000003 
+Episode 2: 1.6 
+Episode 3: 3.1 
+Episode 4: 1.6 
+Episode 5: 3.0 
+Episode 6: 32.1 
+Mean is 7.533333333333334 
+
+Attempt: 135
+Episode 1: 5.500000000000001 
+Episode 2: 15.600000000000001 
+Episode 3: 2.0 
+Episode 4: 47.0 
+Episode 5: 3.8000000000000003 
+Episode 6: 1.6 
+Mean is 12.58333333333333 
+
+Attempt: 136
+Episode 1: 2.9999999999999996 
+Episode 2: 3.1 
+Episode 3: 1.6 
+Episode 4: 6.500000000000001 
+Episode 5: 18.6 
+Episode 6: 7.600000000000001 
+Mean is 6.733333333333333 
+
+Attempt: 137
+Episode 1: 3.1 
+Episode 2: 1.6 
+Episode 3: 18.6 
+Episode 4: 3.8000000000000003 
+Episode 5: 4.6000000000000005 
+Episode 6: 24.1 
+Mean is 9.3 
+
+Attempt: 138
+Episode 1: 2.5 
+Episode 2: 2.0 
+Episode 3: 4.6000000000000005 
+Episode 4: 68.1 
+Episode 5: 2.5 
+Episode 6: 4.6000000000000005 
+Mean is 14.049999999999997 
+
+Attempt: 139
+Episode 1: 18.6 
+Episode 2: 3.8000000000000003 
+Episode 3: 22.0 
+Episode 4: 2.5 
+Episode 5: 2.0 
+Episode 6: 3.1 
+Mean is 8.666666666666668 
+
+Attempt: 140
+Episode 1: 2.5 
+Episode 2: 3.8000000000000003 
+Episode 3: 3.4999999999999996 
+Episode 4: 1.6 
+Episode 5: 2.5 
+Episode 6: 18.6 
+Mean is 5.416666666666667 
+
+Attempt: 141
+Episode 1: 5.6 
+Episode 2: 2.6 
+Episode 3: 1.6 
+Episode 4: 5.6 
+Episode 5: 4.6000000000000005 
+Episode 6: 37.1 
+Mean is 9.516666666666667 
+
+Attempt: 142
+Episode 1: 2.5999999999999996 
+Episode 2: 2.0 
+Episode 3: 3.8000000000000003 
+Episode 4: 2.5 
+Episode 5: 1.6 
+Episode 6: 19.3 
+Mean is 5.3 
+
+Attempt: 143
+Episode 1: 2.6 
+Episode 2: 4.6000000000000005 
+Episode 3: 1.6 
+Episode 4: 20.8 
+Episode 5: 2.9999999999999996 
+Episode 6: 3.5 
+Mean is 6.016666666666667 
+
+Attempt: 144
+Episode 1: 20.3 
+Episode 2: 2.0 
+Episode 3: 5.6 
+Episode 4: 1.6 
+Episode 5: 2.6 
+Episode 6: 3.8000000000000003 
+Mean is 5.983333333333333 
+
+Attempt: 145
+Episode 1: 20.1 
+Episode 2: 2.5999999999999996 
+Episode 3: 18.0 
+Episode 4: 14.8 
+Episode 5: 31.6 
+Episode 6: 2.0 
+Mean is 14.85 
+
+Attempt: 146
+Episode 1: 1.6 
+Episode 2: 19.299999999999997 
+Episode 3: 3.5 
+Episode 4: 1.6 
+Episode 5: 31.6 
+Episode 6: 3.1 
+Mean is 10.116666666666667 
+
+Attempt: 147
+Episode 1: 21.0 
+Episode 2: 20.1 
+Episode 3: 4.8 
+Episode 4: 3.1 
+Episode 5: 2.0 
+Episode 6: 19.3 
+Mean is 11.716666666666667 
+
+Attempt: 148
+Episode 1: 4.6000000000000005 
+Episode 2: 2.5 
+Episode 3: 1.6 
+Episode 4: 1.6 
+Episode 5: 2.6 
+Episode 6: 22.0 
+Mean is 5.816666666666666 
+
+Attempt: 149
+Episode 1: 34.0 
+Episode 2: 3.1 
+Episode 3: 14.799999999999999 
+Episode 4: 2.0 
+Episode 5: 2.3 
+Episode 6: 4.6000000000000005 
+Mean is 10.133333333333333 
+

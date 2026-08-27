@@ -1,0 +1,624 @@
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0
+
+Ep 7 
+Reward: 0
+Reward: 0
+
+Ep 8 
+Reward: 0
+Reward: 0
+
+Ep 9 
+Reward: 0
+Reward: 0
+
+Ep 10 
+Reward: 0
+Reward: 0
+
+Ep 11 
+Reward: 0
+Reward: 0
+
+Ep 12 
+Reward: 0
+Reward: 0
+
+Ep 13 
+Reward: 0
+Reward: 0
+
+Ep 14 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0
+
+Ep 7 
+Reward: 0
+Reward: 0
+
+Ep 8 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0
+
+Ep 7 
+Reward: 0
+Reward: 0
+
+Ep 8 
+Reward: 0
+Reward: 0
+
+Ep 9 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0
+
+Ep 7 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0
+
+Ep 7 
+Reward: 0
+Reward: 0
+
+Ep 8 
+Reward: 0
+Reward: 0
+
+Ep 9 
+Reward: 0
+Reward: 0
+
+Ep 10 
+Reward: 0
+Reward: 0
+
+Ep 11 
+Reward: 0
+Reward: 0
+
+Ep 12 
+Reward: 0
+Reward: 0
+
+Ep 13 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0
+
+Ep 7 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0
+
+Ep 7 
+Reward: 0
+Reward: 0
+
+Ep 8 
+Reward: 0
+Reward: 0
+
+Ep 9 
+Reward: 0
+Reward: 0
+
+Ep 10 
+Reward: 0
+Reward: 0
+
+Ep 11 
+Reward: 0
+Reward: 0
+
+Ep 12 
+Reward: 0
+Reward: 0
+
+Ep 13 
+Reward: 0
+Reward: 0
+
+Ep 14 
+Reward: 0
+Reward: 0
+
+Ep 15 
+Reward: 0
+Reward: 0
+
+Ep 16 
+Reward: 0
+Reward: 0
+
+Ep 17 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 1 
+Reward: 0
+Reward: 0
+
+Ep 2 
+Reward: 0
+Reward: 0
+
+Ep 3 
+Reward: 0
+Reward: 0
+
+Ep 4 
+Reward: 0
+Reward: 0
+
+Ep 5 
+Reward: 0
+Reward: 0
+
+Ep 6 
+Reward: 0
+Reward: 0

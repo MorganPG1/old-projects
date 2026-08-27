@@ -1,0 +1,198 @@
+
+Ep 1 
+
+Ep 1 
+Total reward: 162085
+
+Ep 1 
+Total reward: 72
+
+Ep 2 
+Total reward: 80
+
+Ep 3 
+Total reward: 52
+
+Ep 4 
+Total reward: 51
+
+Ep 5 
+Total reward: 48
+
+Ep 6 
+Total reward: 52
+
+Ep 7 
+Total reward: 48
+
+Ep 1 
+Total reward: 1230
+
+Ep 2 
+Total reward: 31
+
+Ep 3 
+Total reward: 28
+
+Ep 4 
+Total reward: 25
+
+Ep 5 
+Total reward: 19
+
+Ep 6 
+Total reward: 14
+
+Ep 7 
+Total reward: 14
+
+Ep 8 
+Total reward: 14
+
+Ep 9 
+Total reward: 15
+
+Ep 10 
+Total reward: 14
+
+Ep 1 
+Reward: 6Reward: 6
+Ep 1 
+Reward: 6
+Reward: 6
+
+Ep 1 
+Reward: 3
+Reward: 3
+
+Ep 1 
+Reward: 3
+Reward: 3
+
+Ep 1 
+Reward: 3
+Reward: 3
+
+Ep 1 
+Reward: 3
+Reward: 3
+
+Ep 1 
+Reward: 3
+Reward: 3
+
+Ep 1 
+Reward: 3
+Reward: 3
+
+Ep 2 
+Reward: 3
+Reward: 3
+
+Ep 1 
+Reward: 3
+Reward: 3
+
+Ep 1 
+Reward: 104
+Reward: 50
+
+Ep 2 
+Reward: 61
+Reward: 54
+
+Ep 3 
+Reward: 75
+Reward: 121
+
+Ep 4 
+Reward: 4080
+Reward: 64
+
+Ep 5 
+Reward: 66
+Reward: 107
+
+Ep 6 
+Reward: 15178
+Reward: 98
+
+Ep 7 
+Reward: 69
+Reward: 46
+
+Ep 8 
+Reward: 70
+Reward: 46
+
+Ep 1 
+Reward: 57
+Reward: 38
+
+Ep 2 
+Reward: 72
+Reward: 55
+
+Ep 3 
+Reward: 105
+Reward: 73
+
+Ep 1 
+Reward: 58
+Reward: 116
+
+Ep 2 
+Reward: 101
+Reward: 74
+
+Ep 1 
+Reward: 103
+Reward: 116
+
+Ep 2 
+Reward: 99
+Reward: 107
+
+Ep 3 
+Reward: 58
+Reward: 95
+
+Ep 1 
+Reward: 55
+Reward: 67
+
+Ep 2 
+Reward: 76
+Reward: 130
+
+Ep 1 
+Reward: 112
+Reward: 181
+
+Ep 2 
+Reward: 218
+Reward: 244
+
+Ep 3 
+Reward: 186
+Reward: 105
+
+Ep 4 
+Reward: 81
+Reward: 179
+
+Ep 5 
+Reward: 118
+Reward: 211
+
+Ep 6 
+Reward: 140
+Reward: 108
+
+Ep 7 
+Reward: 81
+Reward: 94
+
+Ep 8 
+Reward: 173
+Reward: 197

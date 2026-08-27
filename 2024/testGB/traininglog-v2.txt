@@ -1,0 +1,420 @@
+
+Ep 1 
+Total reward: 5
+
+Ep 2 
+Total reward: 3
+
+Ep 3 
+Total reward: 4
+
+Ep 4 
+Total reward: 5
+
+Ep 5 
+Total reward: 3
+
+Ep 6 
+Total reward: 5
+
+Ep 7 
+Total reward: 5
+
+Ep 8 
+Total reward: 5
+
+Ep 9 
+Total reward: 3
+
+Ep 10 
+Total reward: 3
+
+Ep 1 
+Total reward: 8
+
+Ep 2 
+Total reward: 8
+
+Ep 3 
+Total reward: 6
+
+Ep 4 
+Total reward: 5
+
+Ep 5 
+Total reward: 5
+
+Ep 6 
+Total reward: 2
+
+Ep 7 
+Total reward: 2
+
+Ep 8 
+Total reward: 2
+
+Ep 9 
+Total reward: 2
+
+Ep 10 
+Total reward: 2
+
+Ep 1 
+Total reward: 5
+
+Ep 2 
+Total reward: 3
+
+Ep 3 
+Total reward: 3
+
+Ep 4 
+Total reward: 2
+
+Ep 5 
+Total reward: 3
+
+Ep 6 
+Total reward: 2
+
+Ep 7 
+Total reward: 3
+
+Ep 8 
+Total reward: 2
+
+Ep 9 
+Total reward: 3
+
+Ep 1 
+Total reward: 1
+
+Ep 2 
+Total reward: 0
+
+Ep 3 
+Total reward: 0
+
+Ep 4 
+Total reward: 1
+
+Ep 5 
+Total reward: 0
+
+Ep 6 
+Total reward: 0
+
+Ep 7 
+Total reward: 0
+
+Ep 8 
+Total reward: 0
+
+Ep 1 
+Total reward: 0
+
+Ep 1 
+Total reward: 2
+
+Ep 2 
+Total reward: 0
+
+Ep 3 
+Total reward: 5
+
+Ep 4 
+Total reward: 0
+
+Ep 5 
+Total reward: 0
+
+Ep 6 
+Total reward: 2
+
+Ep 1 
+Total reward: 0
+
+Ep 2 
+Total reward: 1.0
+
+Ep 3 
+Total reward: 0
+
+Ep 4 
+Total reward: 1.0
+
+Ep 5 
+Total reward: 2.0
+
+Ep 6 
+Total reward: 0
+
+Ep 7 
+Total reward: 0
+
+Ep 8 
+Total reward: 0
+
+Ep 9 
+Total reward: 0
+
+Ep 10 
+Total reward: 1.0
+
+Ep 11 
+Total reward: 0
+
+Ep 12 
+Total reward: 0
+
+Ep 13 
+Total reward: 0
+
+Ep 14 
+Total reward: 0
+
+Ep 15 
+Total reward: 0
+
+Ep 16 
+Total reward: 0
+
+Ep 17 
+Total reward: 0
+
+Ep 18 
+Total reward: 1.0
+
+Ep 19 
+Total reward: 0
+
+Ep 20 
+Total reward: 0
+
+Ep 21 
+Total reward: 0
+
+Ep 22 
+Total reward: 0
+
+Ep 23 
+Total reward: 0
+
+Ep 24 
+Total reward: 0
+
+Ep 25 
+Total reward: 0
+
+Ep 26 
+Total reward: 0
+
+Ep 1 
+Total reward: 1.0
+
+Ep 2 
+Total reward: 2.0
+
+Ep 3 
+Total reward: 1.0
+
+Ep 4 
+Total reward: 3.0
+
+Ep 5 
+Total reward: 1.0
+
+Ep 6 
+Total reward: 1.0
+
+Ep 7 
+Total reward: 4.0
+
+Ep 8 
+Total reward: 1.0
+
+Ep 9 
+Total reward: 1.0
+
+Ep 10 
+Total reward: 0
+
+Ep 11 
+Total reward: 0
+
+Ep 12 
+Total reward: 1.0
+
+Ep 13 
+Total reward: 0
+
+Ep 14 
+Total reward: 0
+
+Ep 15 
+Total reward: 0
+
+Ep 16 
+Total reward: 0
+
+Ep 17 
+Total reward: 0
+
+Ep 1 
+Total reward: 1.0
+
+Ep 2 
+Total reward: 0
+
+Ep 3 
+Total reward: 0
+
+Ep 4 
+Total reward: 0
+
+Ep 5 
+Total reward: 0
+
+Ep 6 
+Total reward: 0
+
+Ep 7 
+Total reward: 0
+
+Ep 8 
+Total reward: 0
+
+Ep 9 
+Total reward: 0
+
+Ep 10 
+Total reward: 0
+
+Ep 1 
+Total reward: 1.0
+
+Ep 2 
+Total reward: 1.0
+
+Ep 3 
+Total reward: 1.0
+
+Ep 4 
+Total reward: 1.0
+
+Ep 5 
+Total reward: 1.0
+
+Ep 6 
+Total reward: 1.0
+
+Ep 7 
+Total reward: 1.0
+
+Ep 8 
+Total reward: 1.0
+
+Ep 9 
+Total reward: 0
+
+Ep 10 
+Total reward: 1.0
+
+Ep 1 
+Total reward: 1.0
+
+Ep 2 
+Total reward: 2.0
+
+Ep 3 
+Total reward: 1.0
+
+Ep 4 
+Total reward: 0
+
+Ep 5 
+Total reward: 1.0
+
+Ep 6 
+Total reward: 1.0
+
+Ep 7 
+Total reward: 0
+
+Ep 8 
+Total reward: 0
+
+Ep 9 
+Total reward: 0
+
+Ep 10 
+Total reward: 0
+
+Ep 11 
+Total reward: 0
+
+Ep 12 
+Total reward: 0
+
+Ep 13 
+Total reward: 0
+
+Ep 14 
+Total reward: 0
+
+Ep 15 
+Total reward: 0
+
+Ep 16 
+Total reward: 0
+
+Ep 17 
+Total reward: 0
+
+Ep 18 
+Total reward: 0
+
+Ep 19 
+Total reward: 0
+
+Ep 20 
+Total reward: 0
+
+Ep 21 
+Total reward: 0
+
+Ep 22 
+Total reward: 0
+
+Ep 23 
+Total reward: 0
+
+Ep 24 
+Total reward: 0
+
+Ep 25 
+Total reward: 0
+
+Ep 26 
+Total reward: 0
+
+Ep 27 
+Total reward: 0
+
+Ep 28 
+Total reward: 0
+
+Ep 29 
+Total reward: 0
+
+Ep 30 
+Total reward: 0
+
+Ep 31 
+Total reward: 0
+
+Ep 32 
+Total reward: 0
+
+Ep 1 
+Total reward: 0
