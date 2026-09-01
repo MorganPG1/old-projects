@@ -1,0 +1,151 @@
+----SRS (Airbag)---- 1
+--U0184-Active- 60
+----END----
+
+----4WD (Final drive)----1
+--U0415-Active- 60
+----END----
+ 
+----AMP (Amplifier)----6
+--U0019-Stored-20
+--B1477-Active-60
+--B147C-Active-60
+--B146D-Active-60
+--U0184-Active-60
+--B1472-Active-60
+----END----
+
+----ABS (ABS)----3
+--C102B-Active- E0
+--C2100-Stored- 20
+--C1015-Stored- 20
+----END----
+
+----AHBM (Auto High Beam)----
+NO RESPONSE
+----END----
+
+----DDM (Driver Door)----05
+--B1D35-Active-60
+--B1D10-Active-60
+--U1001-Active-60
+--B1D0D-Active-60
+--U0184-Stored-20
+----END----
+
+----ESM (Electronic Shifter)----
+----END----
+
+----VES (Entertainment System)----
+NO RESPONSE
+----END----
+
+----FCM (Front control)----3
+--B162C-Stored- 20
+--U0184-Active- 60
+--U0024-Active- 60
+----END----
+
+----HFM (Hands free)----
+NO RESPONSE
+----END----
+
+----HLM (Headlamp Leveling)----
+NO RESPONSE
+----END----
+
+----HVAC (Heat ventilation and a/c)----1
+--U0184-Active-60
+----END----
+
+----HSM (Heated seat)----3
+--U1107-Stored-20
+--U0184-Active-E0
+--B210D-Stored-20
+----END----
+
+----IPC (Instrument Panel)----1
+--U0184-Active- 60
+----END----
+
+----ITM (Intrustion)----2
+--U0019-Stored-20
+--U0184-Active-60
+----END----
+
+----LRS (Last row screen)----
+NO RESPONSE
+----END----
+
+----LRSM (Rain sensor)----
+----END----
+
+----MSMD (Memory seat)----2
+--U0024-Stored-20
+--U0184-Active-60
+----END----
+
+----OCM (Occupant Seat)----
+NO RESPONSE
+----END----
+
+----PTM (Parktronics)----2
+--U0019-Stored-20
+--U0184-Active-70
+----END----
+
+----PDM (Passenger door)----4
+--U1001-Active-60
+--B1D16-Active-60
+--B1D19-Active-60
+--U0184-Active-60
+----END----
+
+----PLM (Power liftgate)----
+NO RESPONSE
+----END----
+
+----ECM (Engine control)----
+----END----
+
+----RADIO (Radio)----
+NO RESPONSE
+----END----
+
+----SDAR (Satellite reciever)----
+NO RESPONSE
+----END----
+
+----SDRV (Satellite video reciever)----
+NO RESPONSE
+----END----
+
+----SCM (Steering column)----
+NO RESPONSE
+----END----
+
+----SCM_E (Steering column (early))----2
+--U0024-Stored-20
+--U0184-Active-60
+----END----
+
+----SUNR (Sunroof module)----1
+--U0019-Stored-20
+----END----
+
+----TBCM (Trailer module)----1
+--U0184-Active-60
+----END----
+
+----TCM (Transmission control)----4
+--U1408-Stored-30
+--P0710-Stored-30
+--U140A-Stored-30
+--U140C-Stored-30
+----END----
+
+----WCM (Wireless control)----2
+--C1502-Stored-27
+--C1506-Stored-27
+----END----
+

